@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+ntf/__init__.py
+ntf.egg-info/PKG-INFO
+ntf.egg-info/SOURCES.txt
+ntf.egg-info/dependency_links.txt
+ntf.egg-info/top_level.txt
